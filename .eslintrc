@@ -1,0 +1,33 @@
+{
+  "parser": "typescript-eslint-parser",
+  "plugins": [
+    "typescript"
+  ],
+  "parserOptions": {
+    "jsx": true,
+    "useJSXTextNode": true
+  },
+  "extends": [
+    "airbnb",
+    "typescript",
+    "typescript/react",
+    "typescript/prettier"
+  ],
+  "rules": {
+    "react/jsx-filename-extension": ["error", { "extensions": [".jsx", ".tsx"] }],
+    "no-undef": "off",
+    "typescript/explicit-function-return-type": "off",
+    "prettier/prettier": ["error", {
+      "singleQuote": true,
+      "printWidth": 120,
+      "trailingComma": "es5"
+    }],
+    "react/prop-types": "off",
+    "typescript/explicit-member-accessibility": "off"
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {}
+    }
+  }
+}
