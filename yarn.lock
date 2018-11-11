@@ -2721,10 +2721,10 @@ csstype@^2.2.0:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.5.7.tgz#bf9235d5872141eccfb2d16d82993c6b149179ff"
   integrity sha512-Nt5VDyOTIIV4/nRFswoCKps1R5CD1hkiyjBE9/thNaNZILLEviVw9yWQw15+O+CpNjQKB/uvdcxFFOrSflY3Yw==
 
-customize-cra@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/customize-cra/-/customize-cra-0.2.3.tgz#2399fd91c2e2d94d47014dc568e51630634c4189"
-  integrity sha512-DrqXBFOewzl2zPQ1FdGI6u2F+BLyxA5WOSRpGnY9BIvsgKkXWq941Uhrji87v/z7ZGtk6vVH7kqJ6xHd4yB88w==
+customize-cra@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/customize-cra/-/customize-cra-0.2.4.tgz#5f8cc5f17d7c92f97f569130dc627624f3f67dd5"
+  integrity sha512-PLEsnIPcXMxFbSwbvy2leLcdnPVeZGLScdeiTr6ZowQnYUddjnNNOQ08hVIIvbhYwj2a+elaBWloW0RqMV25cg==
   dependencies:
     lodash.curry "^4.1.1"
     lodash.flow "^3.5.0"
