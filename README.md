@@ -1,3 +1,10 @@
-# React Redux Todo Typescript
+# React Redux Starter Typescript
 
-This is a simple example application I wrote as an example of using the new CRA 2.1 with Typescript and Redux.
+Simple boilerplate repo for creating a React/Redux app using Create React App 2.1 and Typescript.
+
+Redux preconfigured, ESLint setup to lint .ts and .tsx files, with tailored rules for Typescript React.
+
+## Instructions
+1. Clone/fork.
+2. `yarn install`.
+3. Write code.
